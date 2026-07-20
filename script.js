@@ -1,5 +1,1 @@
-function analyzeMatch() {
-    let score = Math.floor(Math.random() * 30) + 70;
-    document.getElementById("result").innerHTML =
-        "Confidence Score: " + score + "%";
-}
+const API_KEY = "YOUR_API_KEY_HERE";
